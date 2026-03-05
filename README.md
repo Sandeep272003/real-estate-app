@@ -1,6 +1,6 @@
 # EstateConnect – Real Estate Marketplace
 
-![EstateConnect Banner](https://via.placeholder.com/1200x400?text=EstateConnect+Real+Estate+App)  
+  
 *(Modern real estate platform connecting buyers, renters, and property owners)*
 
 EstateConnect is a full-stack real estate web application built with **React.js**, **Node.js**, **Express**, and **MongoDB**. Users can browse properties without signing in, list their own properties with Google Maps integration, filter listings, express interest, and communicate directly via private messages.
@@ -31,7 +31,4 @@ EstateConnect is a full-stack real estate web application built with **React.js*
 - MongoDB (local or Atlas)
 - Google Maps API Key (for maps)
 
-### Backend Setup
-```bash
-cd backend
-npm install
+
